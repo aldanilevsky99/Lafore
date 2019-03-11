@@ -1,2 +1,17 @@
-Lafore Examples
+            How to use Lafore WorkshopApplets in 2019
 
+
+Date: 11.03.2019
+
+Now applets not work. Needed change security settings in Java to run it. One of methods to run applets:
+
+1. Use link: https://cs.brynmawr.edu/Courses/cs206/spring2004/lafore.html and add this link to security exception list in Java-Security.
+2. Use exception list. For me path is: file:///C:/Coding/Java/Books/WorkshopApplets/Chap03/Selection/SelectSort.html
+
+You can change exception  file C:\Users\%profile%\AppData\LocalLow\Sun\Java\Deployment\security\exception.sites and add its string
+
+file:///C:/Coding/Java/Books/WorkshopApplets/Chap03/Selection/SelectSort.html
+
+
+Hope this remarks will be helpfull!
+-AD
