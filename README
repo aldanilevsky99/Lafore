@@ -2,6 +2,7 @@
 
 
 Date: 11.03.2019
+Java version: 8 update 201 (build 1.8.0_201_b09)
 
 Needed change security settings in Java to run it. One of methods to run applets:
 
